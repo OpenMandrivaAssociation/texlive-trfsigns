@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Typeset transform signs
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/trfsigns
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/trfsigns
 License:	GPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/trfsigns.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/trfsigns.doc.r%{version}.tar.xz
